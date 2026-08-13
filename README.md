@@ -1,4 +1,7 @@
 <img width="618" height="583" alt="Tech-Archaeology" src="https://github.com/user-attachments/assets/73b93c4c-d8ea-4677-895d-1b06259b6429" />
+
+
+
 # Tech-Archaeology-Digital-Graveyard
 eTwinning project focusing on e-waste, upcycling, and digital sustainability.
 # 🛠️ Tech-Archaeology: Upcycling the Digital Graveyard
