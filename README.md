@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="tech-archaeology-logo.png" alt="Tech-Archaeology Logo" width="320"/>
+</p>
 # Tech-Archaeology-Digital-Graveyard
 eTwinning project focusing on e-waste, upcycling, and digital sustainability.
 # 🛠️ Tech-Archaeology: Upcycling the Digital Graveyard
