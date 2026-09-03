@@ -4,7 +4,7 @@
 
 # Tech-Archaeology: From Digital Relics to Hidden Value
 eTwinning project focusing on e-waste, upcycling, and digital sustainability.
-# 🛠️ Tech-Archaeology: Upcycling the Digital Graveyard
+# 🛠️ Tech-Archaeology: From Digital Relics to Hidden Value
 
 > **Transforming discarded technology and electronic waste into creative, educational, and sustainable innovations.**
 
